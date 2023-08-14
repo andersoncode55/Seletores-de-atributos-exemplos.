@@ -1,0 +1,12 @@
+[href]{
+   color: sienna;
+}
+
+
+
+/* Estilos para links com a classe "red-link" */
+a[class="red-link"] {
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+}
